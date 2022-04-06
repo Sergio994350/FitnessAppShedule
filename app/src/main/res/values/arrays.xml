@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Отдых|30|relax.gif</item> <!--0-->
+        <item>Спина тяга блока к груди сидя|x12|back_tyaga_bloka_k_grudi.gif</item> <!--1-->
+        <item>Бицепс гантели молот стоя|x12|bitceps_ganteli_molot_stoya.gif</item> <!--2-->
+        <item>Бицепс гантели сидя|x12|bitceps_gantelya_sidya.gif</item> <!--3-->
+        <item>Бицепс подъем штанги стоя|x12|bitceps_podyem_shtangi_stoya.gif</item> <!--4-->
+        <item>Бицепс тяга блока сидя|x12|bitceps_tyaga_bloka_sidya.gif</item> <!--5-->
+        <item>Грудь отжимания на брусьях|x12|chest_otzhimania_na_brusiah.gif</item> <!--6-->
+        <item>Грудь отжимания от пола|x12|chest_otzhimania_ot_pola.gif</item> <!--7-->
+        <item>Грудь отжимания от пола скамья|x12|chest_otzhimania_ot_pola_nogi_na_skamie.gif</item> <!--8-->
+        <item>Грудь тяга блоков перед собой|x12|chest_tyaga_blokov_pered_soboy_lezha_naklon.gif</item> <!--9-->
+        <item>Грудь жим штанги лежа|x12|chest_zhim_shtanga_lezha1.gif</item> <!--10-->
+        <item>Грудь жим штанги лежа наклон|x12|chest_zhim_shtanga_naklon.gif</item> <!--11-->
+        <item>Дельты жим штанги сидя|x12|deltoids_zhim_shtangi_vverh_sidya.gif</item> <!--12-->
+        <item>Пресс ролик|x12|press_rolik.gif</item> <!--13-->
+        <item>Пресс скручивания с блином|x12|press_skruchivaniya_s_blinom_sidya.gif</item> <!--14-->
+    </string-array>
+    <string-array name="day_exercises">
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 1-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 2-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 3-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 4-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 5-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 6-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 7-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 8-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 9-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 10-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 11-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 12-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 13-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 14-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 15-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 16-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 17-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 18-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 19-->
+        <item>6,0,7,0,10,0,9,0,13,0,14</item> <!--Day 20-->
+    </string-array>
+
+</resources>
